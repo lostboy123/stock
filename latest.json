@@ -12,7 +12,7 @@
     "expired": false,
     "py": "IFzl,hszl,gzzl,guzhizl",
     "underlying_product": "CFFEX.IF",
-    "underlying_symbol": "CFFEX.IF2004"
+    "underlying_symbol": "CFFEX.600000"
   },
   "KQ.i@SHFE.cu": {
     "class": "FUTURE_INDEX",
@@ -26,7 +26,7 @@
     "sort_key": 18,
     "expired": false,
     "py": "cuzs,htzs,hutongzs,yinjitongzs",
-    "underlying_product": "SHFE.cu"
+    "underlying_product": "SHFE.600001"
   },
   "KQ.m@SHFE.cu": {
     "class": "FUTURE_CONT",
