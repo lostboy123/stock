@@ -30,9 +30,9 @@
   },
   "KQ.m@SH.cu": {
     "class": "FUTURE_CONT",
-    "instrument_id": "KQ.m@SHFE.cu",
+    "instrument_id": "KQ.m@SH.cu",
     "exchange_id": "KQ",
-    "ins_id": "m@SHFE.cu",
+    "ins_id": "m@SH.cu",
     "ins_name": "\u6caa\u94dc\u4e3b\u8fde",
     "volume_multiple": 5,
     "price_tick": 10,
@@ -40,7 +40,7 @@
     "sort_key": 19,
     "expired": false,
     "py": "cuzl,htzl,hutongzl,yinjitongzl",
-    "underlying_product": "SHFE.cu",
-    "underlying_symbol": "SHFE.cu1905"
+    "underlying_product": "SH.cu",
+    "underlying_symbol": "SH.cu1905"
   }
   }
