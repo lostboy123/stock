@@ -1,9 +1,9 @@
 {
-  "KQ.m@CFFEX.IF": {
+  "KQ.m@SZ.IF": {
     "class": "FUTURE_CONT",
-    "instrument_id": "KQ.m@CFFEX.IF",
+    "instrument_id": "KQ.m@SZ.IF",
     "exchange_id": "KQ",
-    "ins_id": "m@CFFEX.IF",
+    "ins_id": "m@SZ.IF",
     "ins_name": "\u6caa\u6df1\u4e3b\u8fde",
     "volume_multiple": 300,
     "price_tick": 0.2,
@@ -11,8 +11,8 @@
     "sort_key": 1,
     "expired": false,
     "py": "IFzl,hszl,gzzl,guzhizl",
-    "underlying_product": "CFFEX.IF",
-    "underlying_symbol": "CFFEX.600000"
+    "underlying_product": "SZ.IF",
+    "underlying_symbol": "SZ.000725"
   },
   "KQ.i@SHFE.cu": {
     "class": "FUTURE_INDEX",
