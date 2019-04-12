@@ -14,11 +14,11 @@
     "underlying_product": "SZ.IF",
     "underlying_symbol": "SZ.000725"
   },
-  "KQ.i@SHFE.cu": {
+  "KQ.i@SH.cu": {
     "class": "FUTURE_INDEX",
-    "instrument_id": "KQ.i@SHFE.cu",
+    "instrument_id": "KQ.i@SH.cu",
     "exchange_id": "KQ",
-    "ins_id": "i@SHFE.cu",
+    "ins_id": "i@SH.cu",
     "ins_name": "\u6caa\u94dc\u6307\u6570",
     "volume_multiple": 5,
     "price_tick": 10,
@@ -26,9 +26,9 @@
     "sort_key": 18,
     "expired": false,
     "py": "cuzs,htzs,hutongzs,yinjitongzs",
-    "underlying_product": "SHFE.600001"
+    "underlying_product": "SH.600001"
   },
-  "KQ.m@SHFE.cu": {
+  "KQ.m@SH.cu": {
     "class": "FUTURE_CONT",
     "instrument_id": "KQ.m@SHFE.cu",
     "exchange_id": "KQ",
